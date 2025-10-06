@@ -8,10 +8,18 @@ Foram realizadas as seguintes tarefas neste projeto:
 - Realização da Normalização (até à 3F)
 - Criação da Base de dados (Com chaves primárias e estrangeiras)
 - Manipulação de Dados
-  > Onde foram inseridos dados e realizadas as seguintes consultas:
+  - Onde foram inseridos dados e realizadas as seguintes consultas:
     - Seleção Simples
     - Seleção Filtrada
     - Junção de Tabelas
     - Agregação
     - Atualização de Registos
     - Eliminação de Registos
+
+Os ficheiros neste projeto são:
+1. DER.pdf
+2. Normalizacao.pdf
+3. criar_tabelas.sql
+4. inserir_dados.sql
+5. consultas.sql
+6. prints.pdf
