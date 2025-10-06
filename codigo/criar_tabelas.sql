@@ -20,5 +20,3 @@ ALTER TABLE Cursos ADD FOREIGN KEY (idInstrumento) REFERENCES Instrumentos(idIns
 ALTER TABLE Instrumentos ADD FOREIGN KEY (idProf) REFERENCES Professores(idProf);
 ALTER TABLE Aulas ADD FOREIGN KEY (idAluno) REFERENCES Alunos(idAluno);
 ALTER TABLE Aulas ADD FOREIGN KEY (idProf) REFERENCES Professores(idProf);
-
---mudar no drawio
